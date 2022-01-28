@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=BhaJVZNpL4M
+45min talk. Overview of machine learning in finance. It might be a bit biased by the speaker's view, but I think it was useful nonetheless. 
+
+https://christophm.github.io/interpretable-ml-book/
+Online book about interpretable machine learning. Not finance specific.  
